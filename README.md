@@ -10,7 +10,7 @@ warning => You have to install nodemon globally or change start script
 This command will install the modules 
 * express
 * mongoose
-##DataBase 
+## DataBase 
 * MongoDB Atlas
 ## End Points
 * /list_of_matches
