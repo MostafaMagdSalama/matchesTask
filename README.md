@@ -1,4 +1,4 @@
-# matchesTask
+# MatchesTask
 The Matches Task
 ## How To Run The Application ?
 ```bash
